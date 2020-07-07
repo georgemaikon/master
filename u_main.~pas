@@ -1,0 +1,65 @@
+unit u_main;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, Menus;
+
+type
+  TfrmMain = class(TForm)
+    MainMenu1: TMainMenu;
+    Sair1: TMenuItem;
+    Exerccios1: TMenuItem;
+    Execcio1Cadastrodelistadenomes1: TMenuItem;
+    Exerccio2Classesdeconversodetexto1: TMenuItem;
+    procedure Execcio1Cadastrodelistadenomes1Click(Sender: TObject);
+    procedure FormDestroy(Sender: TObject);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+    procedure Exerccio2Classesdeconversodetexto1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmMain: TfrmMain;
+
+implementation
+
+uses
+  u_exercicio01, Math, u_exercicio02;
+
+{$R *.dfm}
+
+procedure TfrmMain.Execcio1Cadastrodelistadenomes1Click(Sender: TObject);
+begin
+  if frmExercicio01 = nil then
+  begin
+    frmExercicio01 := TfrmExercicio01.Create(Self);
+  end;
+  frmExercicio01.ShowModal;
+end;
+
+procedure TfrmMain.FormDestroy(Sender: TObject);
+begin
+  FreeAndNil(frmExercicio01);
+end;
+
+procedure TfrmMain.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+   FreeAndNil(frmExercicio01);
+end;
+
+procedure TfrmMain.Exerccio2Classesdeconversodetexto1Click(
+  Sender: TObject);
+begin
+  if frmExercicio02 = nil then
+  begin
+    frmExercicio02 := TfrmExercicio01.Create(Self);
+  end;
+  frmExercicio02.ShowModal;
+end;
+
+end.
