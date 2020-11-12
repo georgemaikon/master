@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/11 11:13:13.000.883,=C:\Users\George\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/11 11:13:46.000.087,C:\Users\George\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\George\Documents\Git\CRUD-Delphi\uPrincipal.dfm</Transaction>
+    <Transaction>2020/11/11 11:13:46.000.087,C:\Users\George\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\George\Documents\Git\CRUD-Delphi\uPrincipal.pas</Transaction>
+    <Transaction>2020/11/11 11:13:54.000.983,C:\Users\George\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\George\Documents\Git\CRUD-Delphi\ProgramaVenda.dproj</Transaction>
+    <Transaction>2020/11/11 11:15:55.000.295,=C:\Users\George\Documents\Git\CRUD-Delphi\Unit2.pas</Transaction>
+    <Transaction>2020/11/11 11:16:21.000.472,C:\Users\George\Documents\Git\CRUD-Delphi\Unit2.dfm=C:\Users\George\Documents\Git\CRUD-Delphi\uPessoa.dfm</Transaction>
+    <Transaction>2020/11/11 11:16:21.000.472,C:\Users\George\Documents\Git\CRUD-Delphi\Unit2.pas=C:\Users\George\Documents\Git\CRUD-Delphi\uPessoa.pas</Transaction>
+    <Transaction>2020/11/11 11:18:56.000.029,=C:\Users\George\Documents\Git\CRUD-Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/11/11 11:19:05.000.932,C:\Users\George\Documents\Git\CRUD-Delphi\Unit1.pas=C:\Users\George\Documents\Git\CRUD-Delphi\uDM.pas</Transaction>
+    <Transaction>2020/11/11 11:19:05.000.932,C:\Users\George\Documents\Git\CRUD-Delphi\Unit1.dfm=C:\Users\George\Documents\Git\CRUD-Delphi\uDM.dfm</Transaction>
+    <Transaction>2020/11/12 16:19:57.833,=C:\Users\George\Documents\Git\CRUD-Delphi\Unit2.pas</Transaction>
+    <Transaction>2020/11/12 16:20:22.313,C:\Users\George\Documents\Git\CRUD-Delphi\uProduto.dfm=C:\Users\George\Documents\Git\CRUD-Delphi\Unit2.dfm</Transaction>
+    <Transaction>2020/11/12 16:20:22.313,C:\Users\George\Documents\Git\CRUD-Delphi\uProduto.pas=C:\Users\George\Documents\Git\CRUD-Delphi\Unit2.pas</Transaction>
+    <Transaction>2020/11/12 16:38:47.444,=C:\Users\George\Documents\Git\CRUD-Delphi\Unit2.pas</Transaction>
+    <Transaction>2020/11/12 16:44:31.088,C:\Users\George\Documents\Git\CRUD-Delphi\uPedidoVenda.dfm=C:\Users\George\Documents\Git\CRUD-Delphi\Unit2.dfm</Transaction>
+    <Transaction>2020/11/12 16:44:31.088,C:\Users\George\Documents\Git\CRUD-Delphi\uPedidoVenda.pas=C:\Users\George\Documents\Git\CRUD-Delphi\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
