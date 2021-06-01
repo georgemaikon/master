@@ -129,14 +129,14 @@ object fTarefa1: TfTarefa1
   end
   object FDPhysFBDriverLink: TFDPhysFBDriverLink
     Left = 456
-    Top = 200
+    Top = 208
   end
   object FDConnection: TFDConnection
     Params.Strings = (
       'DriverID=IB'
       'User_Name=sysdba'
       'Password=masterkey')
-    Left = 384
+    Left = 400
     Top = 208
   end
 end

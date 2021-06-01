@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2021/06/01 00:39:12.480,=C:\Users\George\Documents\Git\Softplan\Test\TestTarefa3.pas</Transaction>
-    <Transaction>2021/06/01 00:39:12.786,=C:\Users\George\Documents\Git\Softplan\uTarefa3.pas</Transaction>
+	<Transactions>
+    <Transaction>2021/06/01 00:39:12.000.480,=C:\Users\George\Documents\Git\Softplan\Test\TestTarefa3.pas</Transaction>
+    <Transaction>2021/06/01 00:39:12.000.786,=C:\Users\George\Documents\Git\Softplan\uTarefa3.pas</Transaction>
   </Transactions>
 </BorlandProject>

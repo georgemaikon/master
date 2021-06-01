@@ -54,7 +54,6 @@ procedure TfTarefa2.btnExecutarClick(Sender: TObject);
 var
   Thread1: TspThread;
   Thread2: TspThread;
-  nCodThread: Integer;
 begin
   Thread1 := TspThread.Create(True);
   FCodThread1 := Thread1.ThreadID;
